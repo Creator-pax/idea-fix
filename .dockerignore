@@ -1,0 +1,8 @@
+.venv/
+maxo/
+__pycache__/
+*.pyc
+.env
+bot_data.db
+bot.debug.log
+.git/

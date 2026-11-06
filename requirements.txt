@@ -1,0 +1,19 @@
+unihttp[aiohttp]<0.3.0
+maxo>=0.10.0
+adaptix==3.0.0b12
+anyio>=4.0.0,<5.0.0
+cachetools>=4.0.0,<8.0.0
+jinja2>=3.0.0,<4.0.0
+typing-extensions>=4.12.0
+requests>=2.31.0
+customtkinter>=5.2.0
+PyPDF2>=3.0.1
+reportlab>=4.0.0
+python-docx>=1.1.0
+python-pptx>=0.6.23
+Pillow>=10.0.0
+numpy>=1.26.0
+moviepy>=2.0.0
+SpeechRecognition>=3.10.1
+# torch>=2.1.0
+# torchvision>=0.16.0
